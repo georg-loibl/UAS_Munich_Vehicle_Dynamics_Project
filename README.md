@@ -1,4 +1,4 @@
-# UAS Munich Vehicle Dynamics Project 2018
+# UAS Munich Vehicle Dynamics Project
 
 This project was the final project of the Vehicle Dynamics course at the University of Applied Sciences Munich in 2018. My assigned project partners were Frederik Markus and Prashant Dhabaliya.
 
